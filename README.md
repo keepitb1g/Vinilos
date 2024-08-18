@@ -1,0 +1,1 @@
+Este programa tiene como funcionalidad permitir hacer un inventario de colección de vinilos y registrarlos de manera ordenada, además de funcionalidades como buscar un vinilo por su artista o grupo, entre otras.
